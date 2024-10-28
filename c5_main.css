@@ -16,10 +16,12 @@ a:focus, a:hover {
 header h2 {
 	font-size: 175%;
 	color: var(--global-color-1);
+	padding: 30px;
 }
 header h3 {
 	font-size: 130%;
 	font-style: italic;
+	padding: 30px;
 }
 header img {
 	float: left;
