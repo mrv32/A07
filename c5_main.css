@@ -25,7 +25,7 @@ header h3 {
 }
 header img {
 	float: left;
-	padding: 5px;
+	padding: 20px;
 }
 .shadow {
 	text-shadow: 2px 2px 2px var(--global-color-1);
